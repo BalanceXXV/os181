@@ -1,3 +1,4 @@
 # os181
-Praktik mata kuliah sistem operasi
+Praktik Mata Kuliah Sistem Operasi 2018
+
 ZCZC Sistem Operasi 2018 Awal (1)
